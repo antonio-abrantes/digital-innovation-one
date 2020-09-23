@@ -1,0 +1,45 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: sans-serif;
+}
+
+body{
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fafafa;
+  margin: 0;
+  padding: 0;
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #ffffff;
+  border: 1px solid #dbdbdb;
+  width: 80%;
+  max-width: 600px;
+  min-width: 550px;
+  height: 90vh;
+}
+
+.container .snake-title{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#snake{
+
+}
+
+#game-over{
+  display: none;
+  margin-top: 8rem;
+  position: absolute;
+}
