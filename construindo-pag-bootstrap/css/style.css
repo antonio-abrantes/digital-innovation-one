@@ -1,0 +1,38 @@
+body{
+  background-color: #fafafa;
+}
+.navbar{
+  background-color: #5FB404;
+}
+
+.margin{
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+
+.quem-somos{
+  background-color: #ffffff;
+  padding-bottom: 50px;
+}
+
+.parceiros{
+  background-color: rgb(150, 150, 212);
+}
+
+.servicos{
+
+}
+
+.bg-footer{
+  color: white;
+  background-color: #1e272e;
+}
+
+.bg-footer img{
+  width: 15%;
+}
+#faixadepedestre{
+  height: 30px;
+}
+.cor1{background-color:white}
+.cor2{background:black}
